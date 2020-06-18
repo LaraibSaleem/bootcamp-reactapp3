@@ -19,7 +19,7 @@ function App() {
 
       <button onClick={ () => setMorning(!isMorning) }> Change from Night to Day </button>
 
-      <h2> Auto Deployment Check </h2>
+      <h2> Auto Deployment Check 2 </h2>
 
     </div>
   );
