@@ -18,6 +18,9 @@ function App() {
       <button onClick={ () => setCount(++count) }> Update Counter </button>
 
       <button onClick={ () => setMorning(!isMorning) }> Change from Night to Day </button>
+
+      <h2> Auto Deployment Check </h2>
+
     </div>
   );
 }
