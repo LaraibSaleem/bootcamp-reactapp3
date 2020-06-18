@@ -1,5 +1,4 @@
 import React, {useState} from 'react';
-import logo from './logo.svg';
 import './App.css';
 import {Message} from './Message.js';
 
@@ -19,7 +18,7 @@ function App() {
 
       <button onClick={ () => setMorning(!isMorning) }> Change from Night to Day </button>
 
-      <h2> Auto Deployment Check 3 </h2>
+      <h2> Auto Deployment Check 4 </h2>
 
     </div>
   );
